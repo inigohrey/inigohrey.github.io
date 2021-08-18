@@ -27,6 +27,11 @@ You can find a pdf version of my CV [here][1].
 
 ## Professional Experience
 
+### Deloitte
+
+* *Title:* **Data Scientist** <br/>
+* *Dates:* Jun 2020---Present
+
 ### Carlac Capital
 
 * *Title:* **Investment Banking Analyst** <br/>
